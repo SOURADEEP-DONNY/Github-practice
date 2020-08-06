@@ -1,4 +1,4 @@
-# Github-practice
+# My Github For Other Certificates
 Introduction to Git and Github
 
 Hello there!
